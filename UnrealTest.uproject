@@ -67,5 +67,13 @@
 			"Name": "AvfMedia",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"Lumin",
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
